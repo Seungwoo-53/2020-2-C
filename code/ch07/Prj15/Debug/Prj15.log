@@ -1,0 +1,3 @@
+﻿  goto.c
+C:\Users\tmddn\source\repos\ch07\Prj15\goto.c(12,9): warning C4129: 'm': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+  Prj15.vcxproj -> C:\Users\tmddn\source\repos\ch07\Debug\Prj15.exe
