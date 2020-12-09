@@ -1,5 +1,0 @@
-﻿  array.c
-C:\Users\tmddn\source\repos\ch09\Prj07\array.c(7,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
-C:\Users\tmddn\source\repos\ch09\Prj07\array.c(7,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
-C:\Users\tmddn\source\repos\ch09\Prj07\array.c(13,10): warning C4477: 'printf' : 서식 문자열 '%10u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
-  Prj07.vcxproj -> C:\Users\tmddn\source\repos\ch09\Debug\Prj07.exe
